@@ -1,0 +1,17 @@
+{
+  "name": "programacao-para-a-internet",
+  "version": "1.0.0",
+  "description": "venda de ingreso sites",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo V Balbino",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
